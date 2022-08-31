@@ -4,7 +4,7 @@
 
 This organization contains the code to reproduce the figures and the results of my PhD thesis titled "[Robust Modelling of Internet Delay and Smart Monitoring Schemes for the Automation of Overlay Networks](https://tel.archives-ouvertes.fr/tel-03666771/document)" (2020).
 
-The datasets used can be downloaded on Zenodo. These datasets are compiled from public sources ([CAIDA MANIC](https://www.caida.org/projects/manic/), [RIPE Atlas](https://atlas.ripe.net)).
+The datasets used can be downloaded on [Zenodo](https://zenodo.org/record/7035667). These datasets are compiled from public sources ([CAIDA MANIC](https://www.caida.org/projects/manic/), [RIPE Atlas](https://atlas.ripe.net)).
 
 Feel free to contact me if you have any questions; my main GitHub account is [@maxmouchet](https://github.com/maxmouchet) and my email address is max@maxmouchet.com.
 
